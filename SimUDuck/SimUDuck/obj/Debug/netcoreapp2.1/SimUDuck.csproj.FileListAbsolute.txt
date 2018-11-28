@@ -1,0 +1,11 @@
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.csprojAssemblyReference.cache
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.csproj.CoreCompileInputs.cache
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.AssemblyInfoInputs.cache
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.AssemblyInfo.cs
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/bin/Debug/netcoreapp2.1/SimUDuck.deps.json
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/bin/Debug/netcoreapp2.1/SimUDuck.runtimeconfig.json
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/bin/Debug/netcoreapp2.1/SimUDuck.runtimeconfig.dev.json
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/bin/Debug/netcoreapp2.1/SimUDuck.dll
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/bin/Debug/netcoreapp2.1/SimUDuck.pdb
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.dll
+/home/amarilis/cursos/aspnetcore/SimUDuck/SimUDuck/obj/Debug/netcoreapp2.1/SimUDuck.pdb

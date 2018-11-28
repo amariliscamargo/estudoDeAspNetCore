@@ -1,0 +1,14 @@
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/bin/Debug/netcoreapp2.1/ConexaoBD.deps.json
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/bin/Debug/netcoreapp2.1/ConexaoBD.runtimeconfig.json
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/bin/Debug/netcoreapp2.1/ConexaoBD.runtimeconfig.dev.json
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/bin/Debug/netcoreapp2.1/ConexaoBD.dll
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/bin/Debug/netcoreapp2.1/ConexaoBD.pdb
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.csprojAssemblyReference.cache
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.csproj.CoreCompileInputs.cache
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.RazorAssemblyInfo.cache
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.RazorAssemblyInfo.cs
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.AssemblyInfoInputs.cache
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.AssemblyInfo.cs
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.RazorTargetAssemblyInfo.cache
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.dll
+/home/amarilis/cursos/aspnetcore/ConexaoBD/ConexaoBD/obj/Debug/netcoreapp2.1/ConexaoBD.pdb

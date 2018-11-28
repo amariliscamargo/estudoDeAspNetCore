@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Console\**" />
+    <Compile Remove="Controles\Controle.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Console\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Console\**" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+/home/amarilis/cursos/aspnetcore/exemplo1/bin/Debug/netcoreapp2.1/exemplo1.deps.json
+/home/amarilis/cursos/aspnetcore/exemplo1/bin/Debug/netcoreapp2.1/exemplo1.runtimeconfig.json
+/home/amarilis/cursos/aspnetcore/exemplo1/bin/Debug/netcoreapp2.1/exemplo1.runtimeconfig.dev.json
+/home/amarilis/cursos/aspnetcore/exemplo1/bin/Debug/netcoreapp2.1/exemplo1.dll
+/home/amarilis/cursos/aspnetcore/exemplo1/bin/Debug/netcoreapp2.1/exemplo1.pdb
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.csprojAssemblyReference.cache
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.csproj.CoreCompileInputs.cache
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.AssemblyInfoInputs.cache
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.AssemblyInfo.cs
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.dll
+/home/amarilis/cursos/aspnetcore/exemplo1/obj/Debug/netcoreapp2.1/exemplo1.pdb
